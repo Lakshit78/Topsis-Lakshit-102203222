@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+Topsis_Lakshit_102203222.egg-info/PKG-INFO
+Topsis_Lakshit_102203222.egg-info/SOURCES.txt
+Topsis_Lakshit_102203222.egg-info/dependency_links.txt
+Topsis_Lakshit_102203222.egg-info/entry_points.txt
+Topsis_Lakshit_102203222.egg-info/top_level.txt
+topsis/__init__.py
+topsis/__main__.py
