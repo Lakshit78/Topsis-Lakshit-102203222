@@ -18,7 +18,7 @@ This package implements the TOPSIS method, which can be used to rank options bas
 To install the `topsis` package, run the following command in your terminal:
 
 ```bash
-pip install topsis-package
+pip install Topsis-Lakshit-102203222
 ```
 
 ## Usage
